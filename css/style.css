@@ -1063,28 +1063,28 @@ a {
   .form input::-webkit-input-placeholder {
     font-weight: 400;
     font-size: 14px;
-    line-height: revert;
-    color: #011c40; }
+    color: #011c40;
+    vertical-align: middle; }
   .form input::-moz-placeholder {
     font-weight: 400;
     font-size: 14px;
-    line-height: revert;
-    color: #011c40; }
+    color: #011c40;
+    vertical-align: middle; }
   .form input:-ms-input-placeholder {
     font-weight: 400;
     font-size: 14px;
-    line-height: revert;
-    color: #011c40; }
+    color: #011c40;
+    vertical-align: middle; }
   .form input::-ms-input-placeholder {
     font-weight: 400;
     font-size: 14px;
-    line-height: revert;
-    color: #011c40; }
+    color: #011c40;
+    vertical-align: middle; }
   .form input::placeholder {
     font-weight: 400;
     font-size: 14px;
-    line-height: revert;
-    color: #011c40; }
+    color: #011c40;
+    vertical-align: middle; }
 
 .form__checkbox-agreement {
   position: relative;
